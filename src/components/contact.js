@@ -13,7 +13,7 @@ class Contact extends Component {
           <a class="contact__link" href="mailto:zadora1004@naver.com ">zadora1004@naver.com</a>
 
           <div class="contact__social-btn__container">
-          <a href="https://github.com/ejkim-author" target="_blank" rel="noopener noreferrer" class="contact__btn__link">
+          <a href="https://github.com/dora-author" target="_blank" rel="noopener noreferrer" class="contact__btn__link">
             <span class="fa fa-github fa-2x contact__fa-btn"></span>
             <div class="contact__social-btn"></div>
           </a>
