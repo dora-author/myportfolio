@@ -34,11 +34,11 @@ class Projects extends Component {
 
           {/* Project 2 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '276px', background: 'url(https://www.viva64.com/media/https://import.viva64.com/docx/blog/0345_Doxygen/image1_thm_intoblank_1200x630.png) center / cover'}} ></CardTitle>
+            <CardTitle style={{color: '#fff', height: '276px', background: 'url(https://getlogovector.com/wp-content/uploads/2020/10/readme-logo-vector.png) center / cover'}} ></CardTitle>
             <CardText>
-              <h1 className="Project_hedding">API reference guide using Doxygen and Sphinx integration</h1>  
-              In general, uses Doxygen to write an API reference guide.
-              The target language is C++, and recently, I'm working on documentation that connects Doxygen output and Python-based Sphinx using the <a href="https://github.com/michaeljones/breathe">breathe extension</a>.
+              <h1 className="Project_hedding">API reference guide using ReadMe and Sphinx integration</h1>  
+              The target language is JS with Node.js, and I had experience on documentation that connects Doxygen output and Python-based Sphinx using 
+              <a href="https://github.com/michaeljones/breathe">breathe extension</a>.
               </CardText>
             <CardActions border>
             </CardActions>
