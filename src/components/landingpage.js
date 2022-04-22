@@ -11,9 +11,7 @@ class Landing extends Component {
 
         <div className="banner-text">
           <h1>Technical Writer and Communicator</h1>
-
-          <hr/>
-
+          <br>
           <p>Documentation and Editing with Markdown/up, XML, HTML, Sphinx, and Doxygen</p>
           <p>Collaboration and Communication by Git, Bitbucket, and Confluenece</p>
           <p>Good English Reading and Writing Skills</p>
