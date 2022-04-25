@@ -24,7 +24,7 @@ class Projects extends Component {
             Use ReadtheDocs for web hosting and Git or Bitbucket for version control.</p>
             </CardText>
             <CardActions border>
-              <Button colored a href="https://github.com/ejkim-author/ReadtheDocs" target="_blank">GitHub</Button>
+              <Button colored a href="https://github.com/dora-author/ReadtheDocs" target="_blank">GitHub</Button>
               <Button colored a href= "https://ejkim-author.readthedocs.io/en/latest" target="_blank">Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
@@ -36,11 +36,13 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '276px', background: 'url(https://getlogovector.com/wp-content/uploads/2020/10/readme-logo-vector.png) center / cover'}} ></CardTitle>
             <CardText>
-              <h1 className="Project_hedding">API reference guide using ReadMe and Sphinx integration</h1>  
-              The target language is JS with Node.js, and I had experience on documentation that connects Doxygen output and Python-based Sphinx using 
+              <h1 className="Project_hedding">API reference guide using  Doxygen and Sphinx integration</h1>  
+              I had experience on documentation that connects Doxygen output and Python-based Sphinx using 
               <a href="https://github.com/michaeljones/breathe">breathe extension</a>.
-              </CardText>
+              Also, I use ReadMe tool as a markdown editor and improved the understanding about Rest API.
+            </CardText>
             <CardActions border>
+              <Button colored a href="https://tw-assignment.readthedocs.io/en/latest/index.html" target="_blank">Sample API Reference</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
